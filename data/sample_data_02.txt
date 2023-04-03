@@ -1,1 +1,13 @@
-Add your sample data to this file.
+If a customer purchase Personal Auto insurance policy from Future Mutual it will cost him/her as follows -
+For Liability Coverage Bodily Injury with limit $300,000 the cost is $150
+For Liability Coverage Bodily Injury with limit $500,000 the cost is $200
+For Liability Coverage Property Damage with limit 250,000 the cost is $100
+For Liability Coverage Property Damage with limit $500,000 the cost is $150
+For Collision Coverage with $1000 deductible the cost is $250
+For Collision Coverage with $500 deductible the cost is $300
+For Comprehensive Coverage with $1000 deductible the cost is $350
+For Comprehensive Coverage with $500 deductible cost is $400
+For Lost Key Coverage the extra cost is $50
+For Windscreen Coverage the extra cost is $70
+
+If user is from Texas do not offer Lost Key coverage.

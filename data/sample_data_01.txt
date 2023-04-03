@@ -1,1 +1,22 @@
-Add your sample data to this file.
+Future Mutual is one of the leading insurance companies in the USA. Future Mutual sells Personal Auto and Homeowners policies in California, Texas and Alaska.
+
+Personal Auto policy has following coverages -   
+Liability Coverage
+Collision Coverage
+Comprehensive Coverage
+Lost Key Coverage
+Windscreen Coverage
+
+Liability Coverage is mandatory and needs to always be selected. Collision and Comprehensive coverage are recommended coverages. However Lost Key Coverage and Windscreen coverages are optional.
+
+Liability coverage has 2 parts - Bodily Injury and Property Damage. And there are different limits to choose from.
+
+Collision and Comprehensive coverage has deductibles associated with it and customers can choose their deductible option.
+
+The cost of the policy is derived from coverages selected and limit or deductible associated with it.
+
+To calculate total premium of the policy add all costs of the unique coverages selected.
+
+If driver's age is less than 25 then there will be additional $100 added to cost of personal auto policy premium and if driver's age is more than 40 and less than 60 there will $60 discount on the premium cost.
+
+Generally customers buy a personal auto policy with Liability, Collision and Comprehensive Coverage. And add Lost Key and Windscreen coverage with extra cost.

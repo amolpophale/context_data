@@ -1,1 +1,10 @@
-Add your sample data to this file.
+The policy with premium under $900 should have following coverages
+Liability Coverage Bodily Injury with limit $300,000 - $150
+Liability Coverage Property Damage with limit 250,000 - $100
+Collision Coverage with $1000 deductible - $250
+Comprehensive Coverage with $1000 deductible - $350
+
+The policy with premium under $500 should have following coverages
+Liability Coverage Bodily Injury with limit $300,000 - $150
+Liability Coverage Property Damage with limit 250,000 - $100
+
